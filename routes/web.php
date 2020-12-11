@@ -20,5 +20,5 @@ Route::get('/', function () {
 
 
 Route::get('/menu', function () {
-    return view('menu');
+    return view('men3u');
 });
